@@ -1,0 +1,37 @@
+#controls {
+    height:50px;
+    width:200px;
+    background-color:darkseagreen;
+    position: fixed;
+    margin: 0px auto;
+    top: 30px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    text-align: center;
+}
+
+
+#display {
+    height:200px;
+    width:500px;
+    position: fixed;
+    margin: 50px auto;
+    top:50px;
+    left:0px;
+    right:0px;
+    bottom:0px;
+    text-align: center;
+}
+
+#numDisplay {
+    width:100px;
+    height:50px;
+    vertical-align:middle;
+    position:absolute;
+    left:0px;
+    right:0px;
+    top:0px;
+    bottom:0px;
+    margin:auto;
+}
